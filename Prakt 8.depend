@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1688738742 source:e:\c univer\1\prakt 8\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
